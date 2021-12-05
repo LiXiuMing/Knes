@@ -1,0 +1,18 @@
+changed except for localization:
+
+//Knes\Parts\Launcher\L3S\_Knes_L3S_Engine_Viking5.cfg
+line 268|name = Shroud|name = Shroud Big
+line 269|displayName = #autoLOC_8007114|displayName = #autoLOC_8007111
+line 287|name = Bare|name = Shroud Small
+line 288|displayName= #autoLOC_8007115|displayName =  #autoLOC_8007110
+line 305|name = Truss Mount|name = Bare
+line 306|displayName= #autoLOC_8007113|displayName= #autoLOC_8007115
+
+//Knes\Parts\MultiRoleKapsule\_Knes_mrk_Cargo.cfg
+line 276-286|repeated light moudel|commented
+
+//Knes\Parts\MultiRoleKapsule\_Knes_mrk_Pod.cfg
+line 260-270|repeated light moudel|commented
+
+//Knes\Parts\MultiRoleKapsule\_Knes_mrk_Pod_Rescue.cfg
+line 269-279|repeated light moudel|commented
